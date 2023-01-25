@@ -2,7 +2,7 @@
 
 ---
 
-1. a Fire-extinguisher
+### 1. a Fire-extinguisher
 
 Chelko, a Czech master during the era 199?-xxxx, received a university professor who came to inquire about Zen.
 
